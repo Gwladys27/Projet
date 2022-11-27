@@ -1,0 +1,51 @@
+	.header{
+		height:650px;
+		width: 100%;
+		background: (62,57,102);
+	}
+	
+	
+	.header_texture{
+		width: 100%;
+		height: 100%;
+		position: absolute;
+		top: 0; left:0;
+		background: url('https://www.dmdc-avocats.com/medias/org-3784/site-6395/img/diapo-infection-min.jpg') center no-repeat;
+		background-size: cover;
+		opacity: 0.8;
+		font: white;
+		}
+		
+		.header_navbar--menu{
+		width: 100%;
+		height:100px;
+		display: flex;
+		flex-direction:row;
+		justify-content: space-between;
+		align-items: center;
+		
+	}
+		
+	
+	
+	.header_navbar--menu-link{
+		margin-right:30px;
+		color:white;
+		text-decoration: none;
+	}
+	
+	
+.h_slogan--title{
+	text-align:center;
+	height:00px;
+	}
+	
+	.h_slogan--title{
+	color: 8B008;
+	font-size: 50px;
+	font-family: 'Georgial';
+	font-style: italic; letter-spacing: 1Px;
+	
+	
+		
+	
